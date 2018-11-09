@@ -1,4 +1,7 @@
 # srgan-mxnet
-mxnet implemention of srgan
+mxnet implemention of srgan forked from `husonchen/srgan-mxnet`
 
-It is under tuning
+# Train on Multi-GPUs
+```bash
+python main.py
+```
